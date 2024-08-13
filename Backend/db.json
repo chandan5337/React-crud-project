@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "kimiko",
+      "salary": "999999",
+      "company": "JP MORGAN",
+      "id": 1
+    },
+    {
+      "name": " John",
+      "salary": "40000",
+      "company": "zoho",
+      "id": 3
+    },
+    {
+      "name": "guru",
+      "salary": "40000",
+      "company": "TCS",
+      "id": 4
+    },
+    {
+      "name": "Shiny",
+      "salary": "99999",
+      "company": "Medico",
+      "id": 5
+    },
+    {
+      "name": "johnson",
+      "salary": "600000",
+      "company": "zoho",
+      "id": 6
+    },
+    {
+      "name": "johnson",
+      "salary": "000000",
+      "company": "xyz",
+      "id": 7
+    }
+  ]
+}
